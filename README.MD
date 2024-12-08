@@ -1,12 +1,12 @@
 # 1. Configure Kubernetes on the PC
  
-1 - https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
+https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
 
 # 2. Install Minikube
 
 https://minikube.sigs.k8s.io/docs/start/?arch=%2Fwindows%2Fx86-64%2Fstable%2F.exe+download
 
-3. Important commands
+# 3. Important commands
 
 kubectl get/delete/edit pods - returns the pods
 
