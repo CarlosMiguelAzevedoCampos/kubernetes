@@ -1,5 +1,5 @@
-# 1. Configure Kubernetes on the PC
- 
+# 1. Install kubernetes
+
 https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
 
 # 2. Install Minikube
